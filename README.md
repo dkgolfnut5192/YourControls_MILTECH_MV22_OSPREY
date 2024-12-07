@@ -3,7 +3,7 @@ YourControls_MILTECH_MV22_OSPREY
 
 # Version 00.3
    Known Issues:
-   - 12/7/2024 PILOT IN COMMAND should operate the engine NACELLes only to maintain synchronization. It isnt perfect but pretty close.
+   - 12/7/2024 PILOT IN COMMAND should operate the engine NACELLES only to maintain synchronization. It isnt perfect but pretty close.
 
    - 11/5/2024 Make sure you use a very slow click on CDU and PFD buttons so they register. 
 
