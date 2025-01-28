@@ -1,4 +1,5 @@
-# YourControls_MILTECH_MV22_OSPREY
+# YourControls_MILTECH_MV22_OSPREY 
+# Made for MSFS2020 and not validated for 2024
 YourControls_MILTECH_MV22_OSPREY
 
 # Version 00.3
